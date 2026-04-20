@@ -1,0 +1,34 @@
+===============================
+   Personal Information File
+===============================
+
+Full Name: Mishary rakan alrualy
+
+Email: sh-h79@hotmail.com
+
+Country: Saudi Arabia
+
+Date Created: 20 / 4 / 2026
+
+===============================
+
+   About Me
+
+I enjoy the world of technology, and I am specialized in networking.
+I also love video games and anything related to computers and tech.
+Programming has become one of my interests because it allows me
+to create things, solve problems, and explore new ideas.
+
+===============================
+   Purpose of This File
+===============================
+
+This file is created to store my name and personal details
+for my CS50 assignments and projects.
+It helps me keep my information organized in one place.
+
+Notes:
+This file is created to store my name and personal details
+for my CS50 assignments and projects.
+It helps me keep my information organized in one place
+and serves as a personal record of my learning journey.

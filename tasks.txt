@@ -1,0 +1,5 @@
+go to sleep
+1
+go too sleep
+clear
+go too sleep 55
